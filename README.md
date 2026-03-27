@@ -49,3 +49,5 @@ Upload image
 → Review outputs
 → Copy into Notion
 ```
+
+# Cloudflare Pages install chain trigger

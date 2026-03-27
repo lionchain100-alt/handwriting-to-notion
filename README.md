@@ -19,6 +19,7 @@ Current state:
 - Public test page is running
 - MVP polish is mostly complete
 - Real handwritten sample testing is the current focus
+- Cloudflare Pages deployment trigger commit added
 
 See also:
 - `PROJECT_STATUS.md`
